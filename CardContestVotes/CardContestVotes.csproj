@@ -10,8 +10,10 @@
         <LangVersion>Latest</LangVersion>
         <RootNamespace>CardContestVotes</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
+        <RunAnalyzers>false</RunAnalyzers>
         <Nullable>enable</Nullable>
         <NoWarn>$(NoWarn);AD0001;CS0612;CS0618;CS8600;CS8604;Publicizer001;NETSDK1138</NoWarn>
+        <SelfContained>true</SelfContained>
     </PropertyGroup>
 
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
