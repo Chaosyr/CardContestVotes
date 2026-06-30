@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/GITHUB RELEASE/
+/GITHUB PRERELEASE/
+.idea/
+CardContestVotes.sln.DotSettings.user
+/CardContestVotes/GITHUB RELEASE/
+/CardContestVotes/GITHUB PRERELEASE/
