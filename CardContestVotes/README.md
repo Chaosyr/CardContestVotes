@@ -28,14 +28,12 @@ Configuring will require either Forking or Downloading this repository, rather t
         1. netframework4.7.2
         2. netframework4.8
         3. netframework4.8.1
-        4. netstandard2.0
-        5. netstandard2.1
-        6. net5.0
-        7. net6.0
-        8. net7.0
-        9. net8.0
-        10. net9.0
-        11. net10.0
+        4. net5.0
+        5. net6.0
+        6. net7.0
+        7. net8.0
+        8. net9.0
+        9. net10.0
 2. If you plan (like most) to modify the application to modify the score values, you will need an IDE (Integrated Development Environment) the following are some known and reccomended IDE's:
     1. [JetBrains Idea](https://www.jetbrains.com/rider/)
     2. [Visual Studio](https://visualstudio.microsoft.com/)
