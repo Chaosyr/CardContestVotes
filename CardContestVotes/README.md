@@ -49,7 +49,7 @@ Configuring will require either Forking or Downloading this repository, rather t
         <config>
             <add key="globalPackagesFolder" value="D:\Nuget" />
         </config>
-      ```
+       ```
 5. Build the project with your preferred Build System.
 6. Now within the Debug/Release of the bin you will find the updated Terminal Application, you can go into a framework and run it via the Executable created during build time.
 
